@@ -4,13 +4,11 @@
 
 # csdn文章与notebook相应的链接
 
-## 文章1
+## Logistic Regression、Linear Discriminant Analysis、Shrinkage Methods(Ridge Regression and Lasso)
 
-[Logistic Regression、Linear Discriminant Analysis、Shrinkage Methods（Ridge Regression and Lasso）](http://blog.csdn.net/xlinsist/article/details/52211334)
+[文章](http://blog.csdn.net/xlinsist/article/details/52211334)
 
 [notebook](http://nbviewer.jupyter.org/github/hanxlinsist/jupyter_hub/blob/master/csdn/CSDN-52211334.ipynb)
-
-## 文章1用到的数据集
 
 [Default.csv](https://github.com/hanxlinsist/jupyter_hub/blob/master/csdn/datasets/Default.csv)
 
